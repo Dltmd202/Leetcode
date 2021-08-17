@@ -3,6 +3,7 @@
 ### Algorithms
 | #   | Title | Solution | Difficulty |
 | --- | ----- | ------------------------ | ---------- |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [python](./algorithms/python/1/main.py) | Easy |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [python](./algorithms/python/5/main.py) | Medium |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [python](./algorithms/python/7/main.py), [cpp](./algorithms/cpp/7/main.cpp) | Easy |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [python](./algorithms/python/49/main.py), [cpp](./algorithms/cpp/49/main.cpp) | Medium |
