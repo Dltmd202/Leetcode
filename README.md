@@ -6,6 +6,7 @@
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [python](./algorithms/python/1/main.py) | Easy |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [python](./algorithms/python/5/main.py) | Medium |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [python](./algorithms/python/7/main.py), [cpp](./algorithms/cpp/7/main.cpp) | Easy |
+| 8 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [python](./algorithms/python/9/main.py) | Easy |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | [python](./algorithms/python/15/main.py) | Medium |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [python](./algorithms/python/26/main.py) | Easy |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [python](./algorithms/python/42/main.py) | Hard |
