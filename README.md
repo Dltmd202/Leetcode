@@ -10,6 +10,7 @@
 | 8 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [python](./algorithms/python/9/main.py) | Easy |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | [python](./algorithms/python/15/main.py) | Medium |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [python](./algorithms/python/26/main.py) | Easy |
+| 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [python](./algorithms/python/36/main.py) | Medium |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [python](./algorithms/python/42/main.py) | Hard |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [python](./algorithms/python/49/main.py), [cpp](./algorithms/cpp/49/main.cpp) | Medium |
 | 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | [python](./algorithms/python/680/main.py) | Easy |
