@@ -13,7 +13,6 @@
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [python](./algorithms/python/36/main.py) | Medium |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [python](./algorithms/python/42/main.py) | Hard |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [python](./algorithms/python/49/main.py), [cpp](./algorithms/cpp/49/main.cpp) | Medium |
-| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [python](./algorithms/python/49/main.py), [cpp](./algorithms/cpp/49/main.cpp) | Medium |
 | 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/) | [python](./algorithms/python/561/main.py) | Easy |
 | 819 | [Most Common Word](https://leetcode.com/problems/most-common-word/) | [python](./algorithms/python/819/main.py), [cpp](./algorithms/cpp/817/main.cpp) | Easy |
 | 937 | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) | [python](./algorithms/python/937/main.py), [cpp](./algorithms/cpp/937/main.cpp), [java](./algorithms/java/937/main.java)| Easy |
@@ -26,3 +25,4 @@
 | 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [MySQL](./database/mysql/176/main.sql) | Easy |
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [MySQL](./database/mysql/181/main.sql) | Easy |
 | 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [MySQL](./database/mysql/182/main.sql) | Easy |
+| 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [MySQL](./database/mysql/183/main.sql) | Easy |
