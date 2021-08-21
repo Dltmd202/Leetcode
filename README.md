@@ -14,6 +14,8 @@
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [python](./algorithms/python/36/main.py) | Medium |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [python](./algorithms/python/42/main.py) | Hard |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [python](./algorithms/python/49/main.py), [cpp](./algorithms/cpp/49/main.cpp) | Medium |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [python](./algorithms/python/53/main.py) | Easy |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [python](./algorithms/python/217/main.py) | Easy |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [python](./algorithms/python/238/main.py) | Medium |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [python](./algorithms/python/278/main.py) | Medium |
 | 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/) | [python](./algorithms/python/561/main.py) | Easy |
