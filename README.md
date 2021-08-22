@@ -12,6 +12,7 @@
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [python](./algorithms/python/26/main.py) | Easy |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [python](./algorithms/python/35/main.py) | Easy |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [python](./algorithms/python/36/main.py) | Medium |
+| 37 | [Sudoku Solver](https://leetcode.com/problems/valid-sudoku/) | [python](./algorithms/python/37/main.py) | Hard |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [python](./algorithms/python/42/main.py) | Hard |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [python](./algorithms/python/49/main.py), [cpp](./algorithms/cpp/49/main.cpp) | Medium |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [python](./algorithms/python/53/main.py) | Easy |
