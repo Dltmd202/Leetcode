@@ -1,7 +1,7 @@
 # LeetCode
 
 ### Algorithms
-| #   | Title | Solution | Difficulty |
+| # | Title | Solution | Difficulty |
 | --- | ----- | ------------------------ | ---------- |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [python](./algorithms/python/1/main.py),  [java](./algorithms/java/1/main.java) | Easy |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [python](./algorithms/python/5/main.py), [java](./algorithms/java/5/main.java) | Medium |
@@ -16,6 +16,7 @@
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [python](./algorithms/python/42/main.py) | Hard |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [python](./algorithms/python/49/main.py), [cpp](./algorithms/cpp/49/main.cpp) | Medium |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [python](./algorithms/python/53/main.py) | Easy |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [java](./algorithms/java/121/main.java) | Easy |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [python](./algorithms/python/217/main.py) | Easy |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [python](./algorithms/python/238/main.py) | Medium |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [python](./algorithms/python/278/main.py) | Medium |
