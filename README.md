@@ -3,12 +3,12 @@
 ### Algorithms
 | #   | Title | Solution | Difficulty |
 | --- | ----- | ------------------------ | ---------- |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [python](./algorithms/python/1/main.py) | Easy |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [python](./algorithms/python/1/main.py),  [java](./algorithms/java/1/main.java) | Easy |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [python](./algorithms/python/5/main.py), [java](./algorithms/java/5/main.java) | Medium |
 | 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [python](./algorithms/python/6/main.py) | Medium |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [python](./algorithms/python/7/main.py), [cpp](./algorithms/cpp/7/main.cpp) | Easy |
 | 8 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [python](./algorithms/python/9/main.py) | Easy |
-| 15 | [3Sum](https://leetcode.com/problems/3sum/) | [python](./algorithms/python/15/main.py) | Medium |
+| 15 | [3Sum](https://leetcode.com/problems/3sum/) | [python](./algorithms/python/15/main.py), [java](./algorithms/java/15/main.java)  | Medium |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [python](./algorithms/python/26/main.py) | Easy |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [python](./algorithms/python/35/main.py) | Easy |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [python](./algorithms/python/36/main.py) | Medium |
