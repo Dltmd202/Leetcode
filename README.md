@@ -4,7 +4,7 @@
 | #   | Title | Solution | Difficulty |
 | --- | ----- | ------------------------ | ---------- |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [python](./algorithms/python/1/main.py) | Easy |
-| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [python](./algorithms/python/5/main.py) | Medium |
+| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [python](./algorithms/python/5/main.py), [java](./algorithms/java/5/main.java) | Medium |
 | 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [python](./algorithms/python/6/main.py) | Medium |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [python](./algorithms/python/7/main.py), [cpp](./algorithms/cpp/7/main.cpp) | Easy |
 | 8 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [python](./algorithms/python/9/main.py) | Easy |
