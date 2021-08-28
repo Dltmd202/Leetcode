@@ -8,6 +8,7 @@
 | 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [python](./algorithms/python/6/main.py) | Medium |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [python](./algorithms/python/7/main.py), [cpp](./algorithms/cpp/7/main.cpp) | Easy |
 | 8 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [python](./algorithms/python/9/main.py) | Easy |
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [python](./algorithms/python/14/main.py)  | Easy |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | [python](./algorithms/python/15/main.py), [java](./algorithms/java/15/main.java)  | Medium |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [python](./algorithms/python/26/main.py) | Easy |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [python](./algorithms/python/35/main.py) | Easy |
