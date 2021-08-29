@@ -10,6 +10,7 @@
 | 8 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [python](./algorithms/python/9/main.py) | Easy |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [python](./algorithms/python/14/main.py)  | Easy |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | [python](./algorithms/python/15/main.py), [java](./algorithms/java/15/main.java)  | Medium |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [python](./algorithms/python/21/main.py)  | Easy |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [python](./algorithms/python/26/main.py) | Easy |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [python](./algorithms/python/35/main.py) | Easy |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [python](./algorithms/python/36/main.py) | Medium |
