@@ -26,6 +26,7 @@
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [python](./algorithms/python/278/main.py) | Medium |
 | 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/) | [python](./algorithms/python/561/main.py) | Easy |
 | 653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [python](./algorithms/python/653/main.py) | Easy |
+| 687 | [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) | [python](./algorithms/python/687/main.py) | Easy |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [python](./algorithms/python/704/main.py) | Easy |
 | 819 | [Most Common Word](https://leetcode.com/problems/most-common-word/) | [python](./algorithms/python/819/main.py), [cpp](./algorithms/cpp/817/main.cpp) | Easy |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/most-common-word/) | [python](./algorithms/python/850/main.py) | Hard |
