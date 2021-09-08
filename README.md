@@ -24,6 +24,7 @@
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [java](./algorithms/java/234/Solution.java) | Easy |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [python](./algorithms/python/238/main.py) | Medium |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [python](./algorithms/python/278/main.py) | Medium |
+| 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [python](./algorithms/python/389/main.py) | Easy |
 | 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/) | [python](./algorithms/python/561/main.py) | Easy |
 | 653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [python](./algorithms/python/653/main.py) | Easy |
 | 687 | [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) | [python](./algorithms/python/687/main.py) | Easy |
