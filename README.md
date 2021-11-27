@@ -18,6 +18,7 @@
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [python](./algorithms/python/42/main.py) | Hard |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [python](./algorithms/python/49/main.py), [cpp](./algorithms/cpp/49/main.cpp) | Medium |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [python](./algorithms/python/53/main.py) | Easy |
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [python](./algorithms/python/100/main.py) | Easy |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [java](./algorithms/java/121/main.java) | Easy |
 | 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [python](./algorithms/python/208/main.py) | Medium |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [python](./algorithms/python/217/main.py) | Easy |
